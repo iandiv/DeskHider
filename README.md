@@ -1,5 +1,6 @@
 # DeskHider
-DeskHider is a simple program that allows you to effortlessly toggle the visibility of your desktop icons with a double-click. 
+DeskHider is a straightforward program written in AutoHotkey (AHK) that empowers you to seamlessly toggle the visibility of your desktop icons with just a double-click. 
+This lightweight utility simplifies your desktop experience, allowing you to declutter your workspace effortlessly.
 
 ![ZlMg6ZKUxM](https://github.com/iandiv/DeskHider/assets/28383248/e9ca6c31-938c-438b-a140-137c58fe9643)
 
