@@ -11,7 +11,21 @@ This lightweight utility simplifies your desktop experience, allowing you to dec
  | ----------- |
  | [DeskHider v1.0.0](https://github.com/iandiv/DeskHider/releases) |
 
-## Credits
+## Run on Startup
+- Right click DeskHider.exe then create a shorcut.
+- Open windows Run (Win + R) then paste code below.
+
+``` 
+shell:startup
+```
+
+![image](https://github.com/iandiv/DeskHider/assets/28383248/7d53abcc-3eaa-46bb-a638-80084b63f2c7)
+
+- Paste the Deskhider shorcut.
+
+
+
+# Credits
 
 - The desktop icon toggle functionality in this program is based on the AutoHotkey (AHK) script found on the [AutoHotkey Forum](https://www.autohotkey.com/boards/viewtopic.php?t=79451).
 
